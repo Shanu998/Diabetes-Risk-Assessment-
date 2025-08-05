@@ -32,7 +32,7 @@ This dashboard presents a comprehensive risk assessment of diabetes based on a d
 - Dashboard Design: Implementing best practices for layout, color schemes, and user navigation to enhance user experience.
 
 ## DATASOURCE
-<a href = https://github.com/Shanu998/SALES-PERFORMANCE-/blob/main/SALES_PERFORMANCE.xlsx> Download the Microsoft Excel file </a>
+<a href = https://github.com/Shanu998/Diabetes-Risk-Assessment-/blob/main/Diabetes%20DATASET.csv> Download the Microsoft Excel file </a>
 
 
 ## DASHBOARD INSIGHTS

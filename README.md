@@ -35,8 +35,8 @@ This dashboard presents a comprehensive risk assessment of diabetes based on a d
 <a href = https://github.com/Shanu998/Diabetes-Risk-Assessment-/blob/main/Diabetes%20DATASET.csv> Download the Microsoft Excel file </a>
 
 
-## DASHBOARD INSIGHTS
-![Overview Dashboard](https://github.com/Shanu998/SALES-PERFORMANCE-/blob/main/SHANU%20SALES%20PERFORMANCE.png)
+## DASHBOARD OVERVIEW
+![Overview Dashboard](https://github.com/Shanu998/Diabetes-Risk-Assessment-/blob/main/Diabetes.png)
 
 
 
